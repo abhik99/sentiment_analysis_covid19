@@ -64,4 +64,4 @@ Naive Bayes
 
 
 ## Conclusion
-I built a classification model that predicts the sentiment of tweets with an accuracy score of 80%.
+I built a classification model that predicts the sentiment of tweets with an accuracy score of around 60%.
